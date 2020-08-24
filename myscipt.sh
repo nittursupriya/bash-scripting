@@ -1,4 +1,16 @@
 #! /bin/bash
 #Echo command
 
-echo HelloWorld
+#echo HelloWorld
+
+#Variables
+# Uppercase
+# Letters, numbers and underscores allowed.
+
+NAME="Priya"
+
+echo "My name is $NAME"
+
+# or ${}
+
+echo "My name is ${NAME}"
