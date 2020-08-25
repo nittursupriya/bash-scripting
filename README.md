@@ -1,2 +1,2 @@
 # bash-scripting
-Shell scripting examples
+Basic Shell scripting examples
